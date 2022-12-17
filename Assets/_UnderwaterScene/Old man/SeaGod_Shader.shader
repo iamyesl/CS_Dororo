@@ -31,7 +31,7 @@ Shader "Custom/SeaGod_Shader"
         }
         
         void vert(inout appdata_full v) {
-            v.vertex.xyz += v.normal.xyz * 0.01;
+            v.vertex.xyz += v.normal.xyz * 0.5;
         }
 
         float4 LightingNoLight(SurfaceOutput s, float3 lightDir, float atten) {

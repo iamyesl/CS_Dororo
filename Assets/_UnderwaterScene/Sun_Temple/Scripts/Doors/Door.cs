@@ -45,7 +45,7 @@ namespace SunTemple
 			Player = GameObject.FindGameObjectWithTag (playerTag);
 
 			if (!Player) {
-				Debug.LogWarning (this.GetType ().Name + ".cs on " + this.name + ", No object tagged with " + playerTag + " found in Scene", gameObject);
+				//Debug.LogWarning (this.GetType ().Name + ".cs on " + this.name + ", No object tagged with " + playerTag + " found in Scene", gameObject);
 				scriptIsEnabled = false;
 				return;
 			}
