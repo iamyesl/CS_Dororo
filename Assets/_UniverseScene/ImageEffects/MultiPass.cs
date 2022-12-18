@@ -22,7 +22,7 @@ public class MultiPass : MonoBehaviour
             pass = 1 - pass;
         }
     }
-    
+
     public void OnClick_ChangePass()
     {
         pass = 1 - pass;
@@ -41,4 +41,3 @@ public class MultiPass : MonoBehaviour
         Graphics.Blit(source, destination, myMaterial, pass);  // can choose second pass
     }
 }
-

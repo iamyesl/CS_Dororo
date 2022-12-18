@@ -8,7 +8,7 @@ Shader "My/PostEffects/MultiPass"
 	{
 		// No culling or depth
 		//Cull Off ZWrite Off ZTest Always
-		Pass
+	Pass
 	{
 		CGPROGRAM
 		#pragma vertex vert
@@ -53,7 +53,7 @@ Shader "My/PostEffects/MultiPass"
 		ENDCG
 	}
 
-		Pass
+	Pass
 		{
 			Cull Off ZWrite Off ZTest Always
 			CGPROGRAM
