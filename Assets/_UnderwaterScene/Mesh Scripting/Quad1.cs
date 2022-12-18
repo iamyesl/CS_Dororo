@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Quad : MonoBehaviour
+public class Quad1 : MonoBehaviour
 {
     public Vector3[] newVertices;
     public int[] newTriangles;
