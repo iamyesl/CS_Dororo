@@ -1,0 +1,43 @@
+# Blender MTL File: 'SciFiCapsule.blend'
+# Material Count: 3
+
+newmtl Capsule
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Capsule- Emit.png
+map_Bump Capsule-Nor.png
+map_Ke Capsule- Emit.png
+map_Ks Capsule-Nor.png
+map_Ns Capsule-Nor.png
+
+newmtl Capsule_Capsule_Dif
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Capsule Dif.png
+map_Bump Capsule-Nor.png
+map_Ke Capsule- Emit.png
+map_Ks Capsule-Nor.png
+map_Ns Capsule-Nor.png
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000452 0.001323 0.046227
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Capsule-Nor.png
