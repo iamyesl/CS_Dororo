@@ -418,6 +418,9 @@
 "Assets/_UnderwaterScene/vinicius develops/Wobble Effect/Sample Scene/CameraController.cs"
 "Assets/_UnderwaterScene/vinicius develops/Wobble Effect/WaterCamera.cs"
 "Assets/_UnderwaterScene/WaterCamera.cs"
+"Assets/_UniverseScene/Assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs"
+"Assets/_UniverseScene/Assets/ErbGameArt/Random effects pack/Demo scenes/CameraHolder.cs"
+"Assets/_UniverseScene/BlackHole/LoadScene.cs"
 -langversion:9.0
 
 /deterministic
