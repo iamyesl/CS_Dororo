@@ -352,6 +352,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/_UnderwaterScene/FirstPersonController.cs"
 "Assets/_UnderwaterScene/Sun_Temple/Door_Left_Controller.cs"
 "Assets/_UnderwaterScene/Sun_Temple/Door_Right_Controller.cs"
 "Assets/_UnderwaterScene/Sun_Temple/PostProcessing/Runtime/Attributes/GetSetAttribute.cs"
@@ -416,6 +417,7 @@
 "Assets/_UnderwaterScene/ToonyTurtle/Extra/TurtleAnimControll.cs"
 "Assets/_UnderwaterScene/vinicius develops/Wobble Effect/Sample Scene/CameraController.cs"
 "Assets/_UnderwaterScene/vinicius develops/Wobble Effect/WaterCamera.cs"
+"Assets/_UnderwaterScene/WaterCamera.cs"
 -langversion:9.0
 
 /deterministic
