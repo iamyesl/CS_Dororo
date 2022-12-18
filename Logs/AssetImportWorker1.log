@@ -170,3 +170,225 @@ Received Import Request.
   path: Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd
   artifactKey: Guid(bfd675cc0db1d4656b75dc6d6ba91142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd using Guid(bfd675cc0db1d4656b75dc6d6ba91142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce0305b75d619e2388edfb27036f987') in 0.631511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 594.105803 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm
+  artifactKey: Guid(c91c1eb85782d5748ace27eb4d7415bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm using Guid(c91c1eb85782d5748ace27eb4d7415bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f2b4ae526634df01bd5b983c5ac199') in 0.844923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 463.541328 seconds.
+  path: Assets/_GroundScene/Suburban Structure Kit/Models/3x3Corner.fbx
+  artifactKey: Guid(ec6bf9cc939f4424b93ea24958c1af99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GroundScene/Suburban Structure Kit/Models/3x3Corner.fbx using Guid(ec6bf9cc939f4424b93ea24958c1af99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed12e2c9e65470136fc8317d07018072') in 0.059623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000895 seconds.
+  path: Assets/_GroundScene/Suburban Structure Kit/Models/ArchCorner.fbx
+  artifactKey: Guid(abeaa7afcdb0caa4ca98cc27248d2e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GroundScene/Suburban Structure Kit/Models/ArchCorner.fbx using Guid(abeaa7afcdb0caa4ca98cc27248d2e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b586b82560c7d994bc9ab76d099e9c') in 0.028034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/_GroundScene/Suburban Structure Kit/Models/BaseboardColonial.fbx
+  artifactKey: Guid(ed82145e84d27fd4ea33213fbf8e1980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GroundScene/Suburban Structure Kit/Models/BaseboardColonial.fbx using Guid(ed82145e84d27fd4ea33213fbf8e1980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03eec3531e5fb2d6246021972ab41656') in 0.024564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/_GroundScene/Suburban Structure Kit/Prefabs/BuildingPartsPrefabs/Baseblock.prefab
+  artifactKey: Guid(cac0a8b97af83a04f8827c346fea951f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GroundScene/Suburban Structure Kit/Prefabs/BuildingPartsPrefabs/Baseblock.prefab using Guid(cac0a8b97af83a04f8827c346fea951f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60a98f663913c868f7d1f647a0e7757') in 0.031716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/_GroundScene/Suburban Structure Kit/Prefabs/BuildingPartsPrefabs/BaseboardColonialOScorner.prefab
+  artifactKey: Guid(cddd7093b2c278d4d8943b5929455d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GroundScene/Suburban Structure Kit/Prefabs/BuildingPartsPrefabs/BaseboardColonialOScorner.prefab using Guid(cddd7093b2c278d4d8943b5929455d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01828b8bc7671de180597219895de94') in 0.011758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/_GroundScene/Suburban Structure Kit/Models/BaseboardColonialOScorner.fbx
+  artifactKey: Guid(f20ffa91b79be264989ad19ff8286a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GroundScene/Suburban Structure Kit/Models/BaseboardColonialOScorner.fbx using Guid(f20ffa91b79be264989ad19ff8286a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7d035bc7623efbea6e1cd5c4656acb') in 0.023949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.908880 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Prefabs/Natural/Fol_TallTree_A.prefab
+  artifactKey: Guid(ec813b2a17b6a484fa3b309eb1bb3c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Prefabs/Natural/Fol_TallTree_A.prefab using Guid(ec813b2a17b6a484fa3b309eb1bb3c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32e4ec93c50127b45be53cf4ea8d4af') in 0.297477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Fol_TallTree_B.fbx
+  artifactKey: Guid(3b65d15cf09e65e49bc5b1ea3e326695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Fol_TallTree_B.fbx using Guid(3b65d15cf09e65e49bc5b1ea3e326695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a25f1f832fa670f6c773619eaa2e33') in 0.030328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.259037 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Prefabs/Backgrounds/Bgr_Cloud_A.prefab
+  artifactKey: Guid(ebebbcae990824a4b81d35bada1b8f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Prefabs/Backgrounds/Bgr_Cloud_A.prefab using Guid(ebebbcae990824a4b81d35bada1b8f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2fc7f0453e419afa25adf28aa6c9ff') in 0.047679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bgr_Cloud_D.fbx
+  artifactKey: Guid(1542dafa30a267548b7ec9823fc39199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bgr_Cloud_D.fbx using Guid(1542dafa30a267548b7ec9823fc39199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17c1aabbb56b71bc2e4f90c4066f746') in 0.010377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bgr_Cloud_B.fbx
+  artifactKey: Guid(1df38e5bbed10d04abdd202b92fa466b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bgr_Cloud_B.fbx using Guid(1df38e5bbed10d04abdd202b92fa466b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda6fe4ac512015e750e949e1594a760') in 0.015192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bgr_Cloud_C.fbx
+  artifactKey: Guid(045018d6d312b3947bd9f04340e69039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bgr_Cloud_C.fbx using Guid(045018d6d312b3947bd9f04340e69039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe74dc771752e49756b545d1b6f56db9') in 0.011554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Prefabs/Backgrounds/Bgr_DistantBuilding_A.prefab
+  artifactKey: Guid(d3d29bae076863141abd17a27e8f0f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Prefabs/Backgrounds/Bgr_DistantBuilding_A.prefab using Guid(d3d29bae076863141abd17a27e8f0f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606841e3e8b39007a1eed43f1089460b') in 0.193758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.192329 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bld_Deco_Chimney_A.fbx
+  artifactKey: Guid(d26654d58c9faba418d25357a231397e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Content/Meshes/Main/Bld_Deco_Chimney_A.fbx using Guid(d26654d58c9faba418d25357a231397e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542f42a7417c96a5e476b68847d0d0e4') in 0.931010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_Chimney_B.prefab
+  artifactKey: Guid(b326a8fe753072c448140ccb582b5ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_Chimney_B.prefab using Guid(b326a8fe753072c448140ccb582b5ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5666448b9c99f2e585414ca4acfa00') in 0.024985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_DrainPipe_Assembled_A.prefab
+  artifactKey: Guid(11f9598ed7a5363418df1a0f2500a52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_DrainPipe_Assembled_A.prefab using Guid(11f9598ed7a5363418df1a0f2500a52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba312aa9303d820a4957b1e6b24847dc') in 0.015154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/_UnderwaterScene/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_Chimney_D.prefab
+  artifactKey: Guid(facece911c33f9c4dbc01125974d6987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_UnderwaterScene/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_Chimney_D.prefab using Guid(facece911c33f9c4dbc01125974d6987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e27f5105ab6915c877529bfb3b085f') in 0.030385 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002361 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x2988c7000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/kwon-yesl/Documents/GitHub/CS_Dororo/CS_Dororo/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/kwon-yesl/Documents/GitHub/CS_Dororo/CS_Dororo/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.604 seconds
+Domain Reload Profiling:
+	ReloadAssembly (605ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (444ms)
+			LoadAssemblies (38ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (180ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (40ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3525 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (382.2 KB). Loaded Objects now: 4112.
+Memory consumption went from 448.9 MB to 448.6 MB.
+Total: 2.543500 ms (FindLiveObjects: 0.148959 ms CreateObjectMapping: 0.056792 ms MarkObjects: 2.209791 ms  DeleteObjects: 0.127292 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002374 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17de4b000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/kwon-yesl/Documents/GitHub/CS_Dororo/CS_Dororo/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/kwon-yesl/Documents/GitHub/CS_Dororo/CS_Dororo/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.585 seconds
+Domain Reload Profiling:
+	ReloadAssembly (585ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (449ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (182ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (41ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3525 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (381.6 KB). Loaded Objects now: 4115.
+Memory consumption went from 448.8 MB to 448.4 MB.
+Total: 3.128000 ms (FindLiveObjects: 0.133250 ms CreateObjectMapping: 0.048417 ms MarkObjects: 2.809167 ms  DeleteObjects: 0.136042 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
