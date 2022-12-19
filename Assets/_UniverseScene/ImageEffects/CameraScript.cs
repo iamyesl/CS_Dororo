@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraSwitchScript : MonoBehaviour
+public class CameraScript : MonoBehaviour
 {
     public GameObject cam1;
     public GameObject cam2;
 
+
     // Update is called once per frame
-    void Update(float deltaTime)
+    void Update()
     {
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
@@ -22,3 +23,4 @@ public class CameraSwitchScript : MonoBehaviour
         }
     }
 }
+
