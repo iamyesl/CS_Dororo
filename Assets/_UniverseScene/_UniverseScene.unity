@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 297098016}
-  m_IndirectSpecularColor: {r: 0.040533222, g: 0.038826082, b: 0.040979885, a: 1}
+  m_IndirectSpecularColor: {r: 0.04046634, g: 0.038820453, b: 0.040931515, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -18577,6 +18577,7 @@ GameObject:
   - component: {fileID: 1540735493}
   - component: {fileID: 1540735492}
   - component: {fileID: 1540735491}
+  - component: {fileID: 1540735495}
   m_Layer: 0
   m_Name: RabbitInMoon
   m_TagString: Untagged
@@ -18662,6 +18663,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1540735495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1540735490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af74b535f50ba6b4b80684e80020fc97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1540972209
 PrefabInstance:
   m_ObjectHideFlags: 0
