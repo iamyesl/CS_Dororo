@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Button2 : MonoBehaviour
+public class Button2Script : MonoBehaviour
 {
     public GameObject Canvas;
     public GameObject ScrollView;
