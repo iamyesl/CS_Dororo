@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MyButton : MonoBehaviour
+public class Button : MonoBehaviour
 {
     public GameObject Button1;
     public GameObject Panel1;
