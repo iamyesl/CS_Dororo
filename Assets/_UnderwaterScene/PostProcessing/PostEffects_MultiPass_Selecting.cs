@@ -27,7 +27,7 @@ public class PostEffects_MultiPass_Selecting : MonoBehaviour
 
     void Start()
     {
-        myShader = Shader.Find("My/PostEffects/MultiPass");    // image effect shader file must have been created
+        myShader = Shader.Find("My/PostEffects/PostEffects_MultiPass");    // image effect shader file must have been created
         myMaterial = new Material(myShader);
     }
 
