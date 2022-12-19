@@ -8,6 +8,7 @@ public class PostEffects_MultiPass_Selecting : MonoBehaviour
     Material myMaterial;
 
     public bool DepthEffect;
+    public float depth = 1f;
 
     public bool OverlayEffect;
     public Texture2D OverlayTexture;
@@ -32,10 +33,10 @@ public class PostEffects_MultiPass_Selecting : MonoBehaviour
 
     private void OnDisable()
     {
-        if (myMaterial)
+        /*if (myMaterial)
         {
             DestroyImmediate(myMaterial);
-        }
+        }*/
     }
 
     private void Update()
@@ -61,6 +62,7 @@ public class PostEffects_MultiPass_Selecting : MonoBehaviour
     {
         if (DepthEffect) 
         {
+            myMaterial.SetFloat("_Depth", depth);
             Graphics.Blit(source, destination, myMaterial, 0);
         }
         else if (OverlayEffect)
